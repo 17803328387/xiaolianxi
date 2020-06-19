@@ -1,0 +1,58 @@
+{
+  "id": "1892500",
+  "name": "新浪",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1316944",
+      "name": "首页_竖杠_时间提醒",
+      "font_class": "shouye_shugang_shijiantixing",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "376107",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "1236803",
+      "name": "头像",
+      "font_class": "02",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "4735275",
+      "name": "icon_发评论-线",
+      "font_class": "icon_fapinglun-xian",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "5799989",
+      "name": "APP",
+      "font_class": "yunliankeji-",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "7524543",
+      "name": "置顶",
+      "font_class": "zhiding",
+      "unicode": "e76f",
+      "unicode_decimal": 59247
+    },
+    {
+      "icon_id": "10156402",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    }
+  ]
+}
